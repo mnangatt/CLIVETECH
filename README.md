@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  CLIFF</h1>
-<h3 align="center">A passionate frontend developer from Kenya.</h3>
+<h3 align="center">A fullstack developer from Kenya.</h3>
 
 - 📫 How to reach me **clivetech8@gmail.com**
 
