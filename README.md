@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  CLIFF</h1>
+<h1 align="center">Hi 👋, I'm Wycliffe</h1>
 <h3 align="center">A fullstack developer from Kenya.</h3>
 
 - 📫 How to reach me **clivetech8@gmail.com**
