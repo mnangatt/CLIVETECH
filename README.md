@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://twitter.com/cliffe_ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cliffe_ce" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kiplang-at-w-kemoi-983384127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiplang-at-w-kemoi-983384127" height="30" width="40" /></a>
-<a href="https://fb.com/ck.kemoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ck.kemoi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
