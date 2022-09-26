@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
-<h3 align="center">A Software Engineer with experience in building client-side applications. Specialized in website development where I have intermediate experience in using Angular for frontend and Firebase for the backend in building Single Page Applications (SPAs). I have also worked with Laravel PHP in building web solutions such as e-commerce platforms. Other skills that complement the aforementioned include version control, building Progressive Web Applications, CI, and design thinking for building user-centered solutions which I find crucial in the Software Engineering process.</h3>
+<h3 align="center">I am Software Engineer with experience in building client-side applications. Specialized in website development where I have intermediate experience in using Angular for frontend and Firebase for the backend in building Single Page Applications (SPAs). I have also worked with Laravel PHP in building web solutions such as e-commerce platforms. Other skills that complement the aforementioned include version control, building Progressive Web Applications, CI, and design thinking for building user-centered solutions which I find crucial in the Software Engineering process.</h3>
 
 - 📫 How to reach me **clivetech8@gmail.com**
 
